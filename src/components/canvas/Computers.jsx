@@ -20,7 +20,7 @@ const Computers = ({ isMobile }) => {
       <pointLight intensity={10} />
       <primitive
         object={computer.scene}
-        scale={isMobile ? 0.3 : 0.65}
+        scale={isMobile ? 0.25 : 0.65}
         position={isMobile ? [0, -2, -1.6] : [0, -3.6, -1.5]}
       />
     </mesh>
