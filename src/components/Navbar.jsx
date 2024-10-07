@@ -1,7 +1,7 @@
 import React, { useState } from "react";
 import { Link } from "react-router-dom";
 import { styles } from "../styles";
-import { navLinks } from "../constants";
+import { navLinks } from "../constants/constants.js";
 import { menu, close } from "../assets";
 import { logoMe } from "../assets";
 

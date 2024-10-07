@@ -1,5 +1,5 @@
 import { SectionWrapper } from "../hoc";
-import { technologies } from "../constants";
+import { technologies } from "../constants/constants.js";
 
 const Tech = () => {
   return (

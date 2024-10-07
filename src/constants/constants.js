@@ -140,11 +140,32 @@ const experiences = [
     icon: logoCREO,
     iconBg: "#383E56",
     date: "APR 2023 - JUL 2023",
-    points: ["ReactJS", "oracle", "TailwindCSS"],
+    points: ["ReactJS", "NextJs", "TailwindCSS"],
   },
 ];
 
 const testimonials = [
+  {
+    testimonial: "SOME GOOD WORDS",
+    name: "Alice Monyak",
+    designation: "CFO",
+    company: "Valoores",
+    image: "https://randomuser.me/api/portraits/women/4.jpg",
+  },
+  {
+    testimonial: "SOME GOOD WORDS",
+    name: "Alice Monyak",
+    designation: "CFO",
+    company: "Valoores",
+    image: "https://randomuser.me/api/portraits/women/4.jpg",
+  },
+  {
+    testimonial: "SOME GOOD WORDS",
+    name: "Alice Monyak",
+    designation: "CFO",
+    company: "Valoores",
+    image: "https://randomuser.me/api/portraits/women/4.jpg",
+  },
   {
     testimonial: "SOME GOOD WORDS",
     name: "Alice Monyak",
